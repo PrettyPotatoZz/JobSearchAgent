@@ -1,0 +1,19 @@
+{
+  "_note": "Webs de empleo corporativas con datos públicos estructurados (los mismos que usa su página de empleo). Solo empresas de config/companies_verified.json. Se ha comprobado que robots.txt no prohíbe estas rutas. SmartRecruiters (robots.txt lo prohíbe) y job-room.ch ('Do not crawl Job Adverts') están excluidos a propósito.",
+  "user_agent": "JobSearchAgent-personal/0.1 (uso personal, bajo volumen)",
+  "delay_seconds": 1.0,
+  "max_pages_per_query": 3,
+  "feeds": [
+    { "company": "Airbus",        "index": "EURO STOXX 50 / DAX", "type": "workday", "host": "ag.wd3.myworkdayjobs.com",        "tenant": "ag",        "site": "Airbus" },
+    { "company": "Banco Santander","index": "EURO STOXX 50",      "type": "workday", "host": "santander.wd3.myworkdayjobs.com", "tenant": "santander", "site": "SantanderCareers" },
+    { "company": "BBVA",          "index": "EURO STOXX 50",       "type": "workday", "host": "bbva.wd3.myworkdayjobs.com",      "tenant": "bbva",      "site": "BBVA" },
+    { "company": "Amadeus",       "index": "IBEX 35",             "type": "workday", "host": "amadeus.wd502.myworkdayjobs.com", "tenant": "amadeus",   "site": "jobs" },
+    { "company": "Erste Group (Erste Digital)", "index": "ATX",   "type": "recruitee", "subdomain": "erstedigital" }
+  ],
+  "keywords": {
+    "IA": ["AI Engineer", "Machine Learning", "MLOps", "GenAI", "LLM", "Data Scientist", "Automation", "Intelligent Automation", "AI Platform"],
+    "Engineering": ["Network Engineer", "Telecommunications", "5G", "IoT", "Embedded", "Electronics", "Hardware", "R&D Engineer", "Systems Integration", "RF"],
+    "Mainframe": ["Mainframe", "z/OS", "CICS", "IBM MQ", "Middleware", "COBOL"],
+    "Supply Chain": ["Supply Chain", "Logistics", "Transport", "Logistik", "Outbound", "Planner", "Planificación"]
+  }
+}

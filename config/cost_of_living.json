@@ -1,0 +1,16 @@
+{
+  "_note": "Índices de coste de vida por ciudad con fuente y fecha. Se rellena/refresca desde una fuente reciente y citable cuando updated_on tenga más de 90 días. Nunca inventar valores.",
+  "reference_city": "Madrid",
+  "source": "Numbeo — Current Cost of Living Index by City (NYC = 100; datos actualizados de forma continua)",
+  "source_url": "https://www.numbeo.com/cost-of-living/rankings_current.jsp",
+  "updated_on": "2026-11-01",
+  "cities": {
+    "Lausanne": { "index": 102.6, "note": "Rent index 52.6. ≈ 1,81× Madrid (56.8)." },
+    "Munich": { "index": 73.8, "note": "Rent index 37.2. ≈ 1,30× Madrid." },
+    "Vienna": { "index": 68.8, "note": "Rent index 29.3. ≈ 1,21× Madrid." },
+    "Zurich": { "index": 118.4, "note": "Rent index 65.0. ≈ 2,08× Madrid." },
+    "Madrid": { "index": 56.8, "note": "Ciudad de referencia. Rent index 34.2." },
+    "Valencia": { "index": 50.4, "note": "Rent index 29.7. ≈ 0,89× Madrid." },
+    "A Coruña": { "index": null, "note": "No figura en el ranking de Numbeo ni tiene página de ciudad (2026-11-01); sin dato fiable." }
+  }
+}

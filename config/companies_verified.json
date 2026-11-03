@@ -1,0 +1,216 @@
+{
+  "_note": "Solo empresas cuya pertenencia ACTUAL a un índice permitido se ha verificado con una fuente oficial (BME/IBEX, STOXX, Deutsche Börse, SIX, Wiener Börse). Reverificar si verified_on tiene más de 90 días.",
+  "companies": [
+    {
+      "name": "Siemens",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Infineon Technologies",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "SAP",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Allianz",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Siemens Energy",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Deutsche Telekom",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Airbus",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Münchener Rück (Munich Re)",
+      "index": "DAX",
+      "source_url": "https://stoxx.com/index/dax/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Banco Santander",
+      "index": "EURO STOXX 50",
+      "source_url": "https://www.stoxx.com/index/sx5e/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Iberdrola",
+      "index": "EURO STOXX 50",
+      "source_url": "https://www.stoxx.com/index/sx5e/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "BBVA",
+      "index": "EURO STOXX 50",
+      "source_url": "https://www.stoxx.com/index/sx5e/",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Inditex",
+      "index": "IBEX 35",
+      "source_url": "https://www.bolsasymercados.es/dam/descargas/indices/composicion-ibex-35-es-en.pdf",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Telefónica",
+      "index": "IBEX 35",
+      "source_url": "https://www.bolsasymercados.es/dam/descargas/indices/composicion-ibex-35-es-en.pdf",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Indra",
+      "index": "IBEX 35",
+      "source_url": "https://www.bolsasymercados.es/dam/descargas/indices/composicion-ibex-35-es-en.pdf",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Amadeus",
+      "index": "IBEX 35",
+      "source_url": "https://www.bolsasymercados.es/dam/descargas/indices/composicion-ibex-35-es-en.pdf",
+      "verified_on": "2026-11-01"
+    },
+    {
+      "name": "Erste Group",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "BAWAG Group",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "OMV",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Raiffeisen Bank International",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Andritz",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "voestalpine",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Verbund",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "AT&S",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Strabag",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Vienna Insurance Group",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "UNIQA Insurance Group",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Wienerberger",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "EVN",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "DO & CO",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Österreichische Post",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "CA Immobilien Anlagen",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Porr",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Mayr-Melnhof Karton",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Palfinger",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    },
+    {
+      "name": "Lenzing",
+      "index": "ATX",
+      "source_url": "https://www.wienerborse.at/en/index/atx-AT0000999982/composition/",
+      "verified_on": "2026-11-03"
+    }
+  ],
+  "verification_notes": "DAX/EURO STOXX 50: stoxx.com muestra solo los 10 mayores componentes; se registran solo los que aparecen. IBEX 35: PDF oficial BME 'Composición histórica IBEX 35' (Septiembre 2026, revisión 137 del 21/09/2026); empresas incluidas sin exclusión posterior (ITX 2001, IDR 1999, AMS 2011; Telefónica miembro original sin exclusión). ATX: lista de 20 componentes en wienerborse.at (dato 30/10/2026). SMI: no se pudo leer la composición en six-group.com; ninguna empresa suiza verificada. ATX: composición completa (20) reverificada el 2026-11-03 en wienerborse.at. SMI: la composición oficial requiere login en indexdata.six-group.com; no se usa. DAX/EURO STOXX 50 completos: las páginas oficiales solo muestran el top 10 sin login."
+}

@@ -1,0 +1,135 @@
+{
+  "daily_total": 20,
+  "quotas": {
+    "IA": 10,
+    "Engineering": 6,
+    "Mainframe": 2,
+    "Supply Chain": 2
+  },
+  "category_priority": [
+    "IA",
+    "Engineering",
+    "Mainframe",
+    "Supply Chain"
+  ],
+  "cities": [
+    {
+      "name": "Lausanne",
+      "country": "Switzerland",
+      "aliases": [
+        "lausanne",
+        "lausana",
+        "losanna"
+      ]
+    },
+    {
+      "name": "Munich",
+      "country": "Germany",
+      "aliases": [
+        "munich",
+        "münchen",
+        "munchen",
+        "muenchen",
+        "múnich",
+        "munic"
+      ]
+    },
+    {
+      "name": "Vienna",
+      "country": "Austria",
+      "aliases": [
+        "vienna",
+        "wien",
+        "viena"
+      ]
+    },
+    {
+      "name": "Zurich",
+      "country": "Switzerland",
+      "aliases": [
+        "zurich",
+        "zürich",
+        "zuerich",
+        "zúrich"
+      ]
+    },
+    {
+      "name": "Madrid",
+      "country": "Spain",
+      "aliases": [
+        "madrid"
+      ]
+    },
+    {
+      "name": "Valencia",
+      "country": "Spain",
+      "aliases": [
+        "valencia",
+        "valència"
+      ]
+    },
+    {
+      "name": "A Coruña",
+      "country": "Spain",
+      "aliases": [
+        "a coruña",
+        "a coruna",
+        "la coruña",
+        "la coruna",
+        "coruña",
+        "coruna"
+      ]
+    }
+  ],
+  "remote_ok_countries": [
+    "Spain",
+    "Switzerland",
+    "Germany",
+    "Austria"
+  ],
+  "seniority_ok": [
+    "associate",
+    "junior",
+    "mid-level",
+    "mid",
+    "intermediate",
+    "professional",
+    "management-if-fit"
+  ],
+  "max_age_days": 14,
+  "min_score": 50,
+  "min_score_fill": 60,
+  "spain_min_salary_eur": 40000,
+  "current_salary_eur": null,
+  "excluded_contract_flags": [
+    "internship",
+    "freelance",
+    "contractor",
+    "temporary"
+  ],
+  "excluded_required_languages": [
+    "german",
+    "alemán",
+    "aleman",
+    "deutsch",
+    "french",
+    "francés",
+    "frances",
+    "français",
+    "francais"
+  ],
+  "preferred_sources": [
+    "LinkedIn",
+    "Indeed"
+  ],
+  "allowed_indices": [
+    "IBEX 35",
+    "EURO STOXX 50",
+    "DAX",
+    "SMI",
+    "ATX"
+  ],
+  "verification_max_age_days": 90,
+  "max_years_required": 8,
+  "senior_exception_min": 55
+}

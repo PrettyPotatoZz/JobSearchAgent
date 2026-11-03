@@ -1,0 +1,13 @@
+# Datos personales (solo en local)
+config/profile.md
+data/history.json
+data/schedule_state.json
+data/runs/
+data/inbox/
+reports/
+logs/
+
+# Sistema
+.DS_Store
+__pycache__/
+*.pyc
