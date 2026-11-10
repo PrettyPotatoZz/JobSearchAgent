@@ -1,0 +1,62 @@
+{
+  "timezone": "UTC",
+  "daily_total": 10,
+  "quotas": {
+    "Categoría A": 6,
+    "Categoría B": 4
+  },
+  "category_priority": [
+    "Categoría A",
+    "Categoría B"
+  ],
+  "cities": [
+    {
+      "name": "Ciudad 1",
+      "country": "País 1",
+      "aliases": [
+        "ciudad 1"
+      ]
+    },
+    {
+      "name": "Ciudad 2",
+      "country": "País 2",
+      "aliases": [
+        "ciudad 2"
+      ]
+    }
+  ],
+  "remote_ok_countries": [
+    "País 1"
+  ],
+  "seniority_ok": [
+    "junior",
+    "mid"
+  ],
+  "max_age_days": 14,
+  "min_score": 50,
+  "min_score_fill": 60,
+  "min_salary_eur_by_country": {
+    "País 1": 30000
+  },
+  "current_salary_eur": null,
+  "excluded_contract_flags": [
+    "internship",
+    "freelance",
+    "contractor",
+    "temporary"
+  ],
+  "excluded_required_languages": [
+    "idioma excluido"
+  ],
+  "exclude_title_regex": "\\b(intern(ship)?|trainee|apprentice)\\b",
+  "preferred_sources": [
+    "LinkedIn",
+    "Indeed"
+  ],
+  "allowed_indices": [
+    "Índice bursátil A"
+  ],
+  "verification_max_age_days": 90,
+  "max_years_required": 8,
+  "senior_exception_min": 55
+}

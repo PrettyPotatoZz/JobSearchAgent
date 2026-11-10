@@ -1,0 +1,11 @@
+{
+  "_note": "Índices de coste de vida por ciudad con fuente y fecha. Se rellena/refresca desde una fuente reciente y citable cuando updated_on tenga más de 90 días. Nunca inventar valores.",
+  "reference_city": "Ciudad 1",
+  "source": "Nombre de la fuente",
+  "source_url": "https://example.com/coste-de-vida",
+  "updated_on": "2000-01-01",
+  "cities": {
+    "Ciudad 1": { "index": null, "note": "Ciudad de referencia." },
+    "Ciudad 2": { "index": null, "note": "Sin dato todavía." }
+  }
+}

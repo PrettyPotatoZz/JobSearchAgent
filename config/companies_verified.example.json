@@ -1,0 +1,12 @@
+{
+  "_note": "Solo empresas cuya pertenencia ACTUAL a un índice permitido se ha verificado con una fuente oficial. Reverificar si verified_on tiene más de 90 días.",
+  "companies": [
+    {
+      "name": "Empresa de ejemplo",
+      "index": "Índice bursátil A",
+      "source_url": "https://example.com/composicion-del-indice",
+      "verified_on": "2000-01-01"
+    }
+  ],
+  "verification_notes": "Anota aquí qué fuente oficial se usó para cada índice y qué no se pudo verificar."
+}

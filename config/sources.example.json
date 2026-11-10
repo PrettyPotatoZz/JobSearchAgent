@@ -1,0 +1,11 @@
+{
+  "_note": "Webs de empleo corporativas con datos públicos estructurados. Solo empresas de config/companies_verified.json y rutas que robots.txt no prohíba. Formato de cada feed: {\"company\": \"Empresa\", \"index\": \"Índice\", \"type\": \"workday\", \"host\": \"empresa.wd3.myworkdayjobs.com\", \"tenant\": \"empresa\", \"site\": \"Sitio\"} o {\"company\": \"Empresa\", \"index\": \"Índice\", \"type\": \"recruitee\", \"subdomain\": \"empresa\"}.",
+  "user_agent": "JobSearchAgent-personal/0.1 (uso personal, bajo volumen)",
+  "delay_seconds": 1.0,
+  "max_pages_per_query": 3,
+  "feeds": [],
+  "keywords": {
+    "Categoría A": ["palabra clave 1", "palabra clave 2"],
+    "Categoría B": ["palabra clave 3"]
+  }
+}

@@ -1,0 +1,19 @@
+# Datos personales (solo en local)
+config/profile.md
+config/preferences.json
+config/sources.json
+config/companies_verified.json
+config/cost_of_living.json
+prompts/daily_search.md
+docs/ALERTAS.md
+data/history.json
+data/schedule_state.json
+data/runs/
+data/inbox/
+reports/
+logs/
+
+# Sistema
+.DS_Store
+__pycache__/
+*.pyc
